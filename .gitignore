@@ -1,0 +1,7 @@
+./ecr/.terraform/plugins/registry.terraform.io/hashicorp/aws/3.10.0/darwin_amd64/terraform-provider-aws_v3.10.0_x5
+
+./iam/.terraform/plugins/registry.terraform.io/hashicorp/aws/3.10.0/darwin_amd64/terraform-provider-aws_v3.10.0_x5
+
+./service/.terraform/plugins/registry.terraform.io/hashicorp/aws/3.10.0/darwin_amd64/terraform-provider-aws_v3.10.0_x5
+
+./vpc/.terraform/plugins/registry.terraform.io/hashicorp/aws/3.10.0/darwin_amd64/terraform-provider-aws_v3.10.0_x5
